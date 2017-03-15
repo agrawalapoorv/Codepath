@@ -30,7 +30,9 @@
 
  <img src='http://gifmaker.cc/PlayGIFAnimation.php?folder=2017031218poJEBDx6ICG6WWOtdtnfP9&file=output_r8hjbv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
- GIF created with [LiceCap](http://gifmaker.me/).
+  GIF URL  http://gifmaker.cc/PlayGIFAnimation.php?folder=2017031218poJEBDx6ICG6WWOtdtnfP9&file=output_r8hjbv.gif
+
+ GIF created with(http://gifmaker.me/).
 
  ## Notes
 
